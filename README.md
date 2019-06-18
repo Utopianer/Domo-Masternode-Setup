@@ -4,7 +4,7 @@ Shell script to install a [Domo Masternode](https://domoproject.me/) on a Linux 
 
 ## VPS installation
 ```
-wget -N https://raw.githubusercontent.com/zoldur/Domo/master/domo_install.sh
+wget -N https://github.com/Utopianer/Domo-Masternode-Setup/blob/master/domo_install.sh
 bash domo_install.sh
 ```
 ***
